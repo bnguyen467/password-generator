@@ -63,5 +63,5 @@ function generatePassword()
     newPassword.push(passwordChar);
   }
 
-  return newPassword;
+  return newPassword.join('');
 }
