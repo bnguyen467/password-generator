@@ -11,3 +11,4 @@ When the user click on the Generator button, the user will be asked for:
 Then the password will be selected randomly based on the criteria and appear on the text area.
 
 The user can redo the process by clicking on the generate button again if not satisfied.
+**Link to website:** https://bnguyen467.github.io/password-generator/
